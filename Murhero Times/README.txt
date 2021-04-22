@@ -1,13 +1,13 @@
 
 TITLE: 
-Soon - Responsive Free HTML5 Bootstrap Template
+Murhero Times - Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+Alicious Mathia
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: http://murhero.com
+Twitter: http://twitter.com/
+Facebook: http://facebook.com/murhero
 
 
 CREDITS:
